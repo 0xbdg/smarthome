@@ -5,8 +5,8 @@
 
 #define DHT_PIN 14
 
-const char* ssid = "Benjamin Guntoro";
-const char* password = "20052006";
+const char* ssid = "SSID";
+const char* password = "PASS";
 
 float suhu = 0.0;
 float kelembapanTanah = 0.0;
